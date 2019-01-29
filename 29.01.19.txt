@@ -1,0 +1,4 @@
+Today l learned Git watched and read some tutorials as well as done all of the tasks at https://learngitbranching.js.org/,
+also created my github repository.
+Instaled and started learning the Django course.
+so l attach the screenshots about my tasks.
